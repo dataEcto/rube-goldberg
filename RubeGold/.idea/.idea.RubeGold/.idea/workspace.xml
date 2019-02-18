@@ -9,17 +9,56 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/MaximumOvr.cs">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/DominoParent.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="432">
+              <caret line="32" column="27" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
               <folding>
-                <marker date="1550160106613" expanded="false" signature="6:78" ph="..." />
-                <marker date="1550160106613" expanded="true" signature="119:420" ph="{...}" />
-                <marker date="1550160106613" expanded="true" signature="237:291" ph="{...}" />
-                <marker date="1550160106613" expanded="true" signature="354:418" ph="{...}" />
+                <marker date="1550446795414" expanded="false" signature="6:78" ph="..." />
+                <marker date="1550446795414" expanded="true" signature="121:1312" ph="{...}" />
+                <marker date="1550446795414" expanded="true" signature="257:785" ph="{...}" />
+                <marker date="1550446795414" expanded="true" signature="421:548" ph="/* Go through the child of the object (In this case, the dominoes ... */" />
+                <marker date="1550446795414" expanded="true" signature="599:764" ph="{...}" />
+                <marker date="1550446795414" expanded="true" signature="658:754" ph="{...}" />
+                <marker date="1550446795414" expanded="true" signature="812:956" ph="{...}" />
+                <marker date="1550446795414" expanded="true" signature="883:931" ph="{...}" />
+                <marker date="1550446795414" expanded="true" signature="983:1310" ph="{...}" />
+                <marker date="1550446795414" expanded="true" signature="1049:1287" ph="{...}" />
+                <marker date="1550446795414" expanded="true" signature="1108:1277" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/TriggerCheck.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <marker date="1550450352320" expanded="false" signature="6:78" ph="..." />
+                <marker date="1550450352320" expanded="true" signature="121:282" ph="{...}" />
+                <marker date="1550450352320" expanded="true" signature="199:280" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/CameraTrigger.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1550173323481" expanded="false" signature="6:78" ph="..." />
+                <marker date="1550173323481" expanded="true" signature="122:1270" ph="{...}" />
+                <marker date="1550173323481" expanded="true" signature="281:302" ph="{...}" />
+                <marker date="1550173323481" expanded="true" signature="360:717" ph="{...}" />
+                <marker date="1550173323481" expanded="true" signature="424:711" ph="{...}" />
+                <marker date="1550173323481" expanded="true" signature="766:877" ph="{...}" />
+                <marker date="1550173323481" expanded="true" signature="910:1264" ph="{...}" />
+                <marker date="1550173323481" expanded="true" signature="1054:1258" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -31,37 +70,32 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/TriggerCheck.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MaximumOvr.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CameraTrigger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/DominoParent.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/MaximumOvr.cs" />
+        <option value="$PROJECT_DIR$/Assets/DominoParent.cs" />
+        <option value="$PROJECT_DIR$/Assets/TriggerCheck.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="170" />
-    <option name="y" value="91" />
+    <option name="x" value="836" />
+    <option name="y" value="119" />
     <option name="width" value="1026" />
     <option name="height" value="546" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="UnityExplorer" proportions="" version="1">
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="FileSystemExplorer" />
-      <pane id="AssemblyExplorer" />
-      <pane id="UnityExplorer">
-        <option name="show-hidden-items" value="false" />
-        <option name="show-project-names" value="true" />
-      </pane>
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
@@ -82,6 +116,20 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -93,11 +141,13 @@
       <option name="presentableId" value="Default" />
       <updated>1550159765322</updated>
       <workItem from="1550159799283" duration="422000" />
+      <workItem from="1550443455056" duration="3920000" />
+      <workItem from="1550447735046" duration="2172000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="422000" />
+    <option name="totallyTimeSpent" value="6514000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -109,21 +159,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.24962178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Performance Profiler" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -131,13 +174,22 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Unity" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,10 +213,58 @@
         <state relative-caret-position="288">
           <caret line="20" selection-start-line="20" selection-end-line="20" />
           <folding>
-            <marker date="1550160106613" expanded="false" signature="6:78" ph="..." />
-            <marker date="1550160106613" expanded="true" signature="119:420" ph="{...}" />
-            <marker date="1550160106613" expanded="true" signature="237:291" ph="{...}" />
-            <marker date="1550160106613" expanded="true" signature="354:418" ph="{...}" />
+            <marker date="1550173323486" expanded="false" signature="6:78" ph="..." />
+            <marker date="1550173323486" expanded="true" signature="119:420" ph="{...}" />
+            <marker date="1550173323486" expanded="true" signature="237:291" ph="{...}" />
+            <marker date="1550173323486" expanded="true" signature="354:418" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/DominoParent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="32" column="27" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
+          <folding>
+            <marker date="1550446795414" expanded="false" signature="6:78" ph="..." />
+            <marker date="1550446795414" expanded="true" signature="121:1312" ph="{...}" />
+            <marker date="1550446795414" expanded="true" signature="257:785" ph="{...}" />
+            <marker date="1550446795414" expanded="true" signature="421:548" ph="/* Go through the child of the object (In this case, the dominoes ... */" />
+            <marker date="1550446795414" expanded="true" signature="599:764" ph="{...}" />
+            <marker date="1550446795414" expanded="true" signature="658:754" ph="{...}" />
+            <marker date="1550446795414" expanded="true" signature="812:956" ph="{...}" />
+            <marker date="1550446795414" expanded="true" signature="883:931" ph="{...}" />
+            <marker date="1550446795414" expanded="true" signature="983:1310" ph="{...}" />
+            <marker date="1550446795414" expanded="true" signature="1049:1287" ph="{...}" />
+            <marker date="1550446795414" expanded="true" signature="1108:1277" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/CameraTrigger.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1550173323481" expanded="false" signature="6:78" ph="..." />
+            <marker date="1550173323481" expanded="true" signature="122:1270" ph="{...}" />
+            <marker date="1550173323481" expanded="true" signature="281:302" ph="{...}" />
+            <marker date="1550173323481" expanded="true" signature="360:717" ph="{...}" />
+            <marker date="1550173323481" expanded="true" signature="424:711" ph="{...}" />
+            <marker date="1550173323481" expanded="true" signature="766:877" ph="{...}" />
+            <marker date="1550173323481" expanded="true" signature="910:1264" ph="{...}" />
+            <marker date="1550173323481" expanded="true" signature="1054:1258" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TriggerCheck.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <marker date="1550450352320" expanded="false" signature="6:78" ph="..." />
+            <marker date="1550450352320" expanded="true" signature="121:282" ph="{...}" />
+            <marker date="1550450352320" expanded="true" signature="199:280" ph="{...}" />
           </folding>
         </state>
       </provider>
